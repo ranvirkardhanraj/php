@@ -13,12 +13,12 @@ body
 
 button
 {
-  background-color: #4CAF50;
+  background-color: #f54281;
   padding: 10px 24px;
   border-radius: 4px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   font-family: sans-serif;
-  display: block;
+  display: red;
   border: 1px solid green;
   text-transform: none;
   font-size: 50px;
@@ -28,8 +28,8 @@ button
 
 <center>
 <br><br><br><br><br><br><br><br>
-<button onclick="myFunction()">Hey! It's v1</button><br><br><br>
-<button onclick="myFunction1()">OpenShift 💖</button><br>
+<button onclick="myFunction()">Hey! this is DJ</button><br><br><br>
+<button onclick="myFunction1()">V1</button><br>
 
 </body>
 </html>
