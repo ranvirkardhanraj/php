@@ -28,7 +28,7 @@ button
 
 <center>
 <br><br><br><br><br><br><br><br>
-<button onclick="myFunction()">Hey! this is DhanraJ</button><br><br><br>
+<button onclick="myFunction()">Hey! this is Chotu</button><br><br><br>
 <button onclick="myFunction1()">V7</button><br>
 
 </body>
