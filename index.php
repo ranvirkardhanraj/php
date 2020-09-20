@@ -6,14 +6,14 @@ body
 {
   margin: 0;
   padding: 0;
-  background: green;
+  background: blue;
   font-family: 'Oswald', sans-serif;
   overflow: hidden;
 }
 
 button
 {
-  background-color: yellow;
+  background-color: red;
   padding: 10px 24px;
   border-radius: 4px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -28,7 +28,7 @@ button
 
 <center>
 <br><br><br><br><br><br><br><br>
-<button onclick="myFunction()">Hey! this is Sujit</button><br><br><br>
+<button onclick="myFunction()">Hey! this is Completed</button><br><br><br>
 <button onclick="myFunction1()">V7</button><br>
 
 </body>
